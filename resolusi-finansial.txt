@@ -11,3 +11,4 @@ RESOLUSI FINANSIAL
 
 Di bagian ini menggunakan github desktop
 - Sekarang masih menggunakan github desktop, tapi kedepannya mungkin akan belajar git versi command line.
+- Git sangat membantu untuk melakukan version control.
