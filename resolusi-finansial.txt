@@ -8,3 +8,6 @@ RESOLUSI FINANSIAL
 - Jika terpaksa meminjam, harus dikembalikan tepat waktu
 - Harus konsisten
 - Tetap sabar
+
+Di bagian ini menggunakan github desktop
+- Sekarang masih menggunakan github desktop, tapi kedepannya mungkin akan belajar git versi command line.
